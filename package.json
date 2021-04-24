@@ -1,0 +1,12 @@
+{
+  "name": "ujian7java script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "draw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node draw.js"
+  },
+  "author": "yakup",
+  "license": "ISC"
+}
